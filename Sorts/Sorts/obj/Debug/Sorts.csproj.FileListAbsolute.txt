@@ -1,0 +1,9 @@
+D:\SelfmadeProjects\Sorts\Sorts\bin\Debug\Sorts.exe.config
+D:\SelfmadeProjects\Sorts\Sorts\bin\Debug\Sorts.exe
+D:\SelfmadeProjects\Sorts\Sorts\bin\Debug\Sorts.pdb
+D:\SelfmadeProjects\Sorts\Sorts\obj\Debug\Sorts.csprojResolveAssemblyReference.cache
+D:\SelfmadeProjects\Sorts\Sorts\obj\Debug\Sorts.exe
+D:\SelfmadeProjects\Sorts\Sorts\obj\Debug\Sorts.pdb
+D:\SelfmadeProjects\Self Projects\Sorts\Sorts\bin\Debug\Sorts.exe.config
+D:\SelfmadeProjects\Self Projects\Sorts\Sorts\obj\Debug\Sorts.exe
+D:\SelfmadeProjects\Self Projects\Sorts\Sorts\obj\Debug\Sorts.pdb

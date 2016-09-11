@@ -1,0 +1,6 @@
+D:\Projects\Self Projects\Compare\LinkedvsList\bin\Debug\LinkedvsList.exe.config
+D:\Projects\Self Projects\Compare\LinkedvsList\bin\Debug\LinkedvsList.exe
+D:\Projects\Self Projects\Compare\LinkedvsList\bin\Debug\LinkedvsList.pdb
+D:\Projects\Self Projects\Compare\LinkedvsList\obj\Debug\LinkedvsList.csprojResolveAssemblyReference.cache
+D:\Projects\Self Projects\Compare\LinkedvsList\obj\Debug\LinkedvsList.exe
+D:\Projects\Self Projects\Compare\LinkedvsList\obj\Debug\LinkedvsList.pdb
