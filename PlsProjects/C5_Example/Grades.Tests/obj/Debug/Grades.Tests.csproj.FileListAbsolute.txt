@@ -1,0 +1,10 @@
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\Grades.Tests.dll
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\Grades.Tests.pdb
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\SelfmadeProjects\C5_Example\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+F:\SelfmadeProjects\C5_Example\Grades.Tests\obj\Debug\Grades.Tests.dll
+F:\SelfmadeProjects\C5_Example\Grades.Tests\obj\Debug\Grades.Tests.pdb
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\C5_Example.exe
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\C5_Example.pdb
+F:\SelfmadeProjects\C5_Example\Grades.Tests\bin\Debug\grades.txt

@@ -1,0 +1,10 @@
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\GenericQuerylt.exe.config
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\GenericQuerylt.exe
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\GenericQuerylt.pdb
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\EntityFramework.dll
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\EntityFramework.SqlServer.dll
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\EntityFramework.xml
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\bin\Debug\EntityFramework.SqlServer.xml
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\obj\Debug\GenericQuerylt.csprojResolveAssemblyReference.cache
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\obj\Debug\GenericQuerylt.exe
+F:\SelfmadeProjects\GenericQuerylt\GenericQuerylt\obj\Debug\GenericQuerylt.pdb

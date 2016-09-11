@@ -1,0 +1,7 @@
+F:\SelfmadeProjects\C5_Example\C5_Example\bin\Debug\C5_Example.exe.config
+F:\SelfmadeProjects\C5_Example\C5_Example\bin\Debug\C5_Example.exe
+F:\SelfmadeProjects\C5_Example\C5_Example\bin\Debug\C5_Example.pdb
+F:\SelfmadeProjects\C5_Example\C5_Example\obj\Debug\C5_Example.csprojResolveAssemblyReference.cache
+F:\SelfmadeProjects\C5_Example\C5_Example\obj\Debug\C5_Example.exe
+F:\SelfmadeProjects\C5_Example\C5_Example\obj\Debug\C5_Example.pdb
+F:\SelfmadeProjects\C5_Example\C5_Example\bin\Debug\grades.txt
