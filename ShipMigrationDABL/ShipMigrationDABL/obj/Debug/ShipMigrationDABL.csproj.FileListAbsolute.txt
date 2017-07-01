@@ -1,2 +1,0 @@
-D:\SelfmadeProjects\ShipMigrationDABL\ShipMigrationDABL\bin\Debug\ShipMigrationDABL.exe.config
-D:\SelfmadeProjects\ShipMigrationDABL\ShipMigrationDABL\obj\Debug\ShipMigrationDABL.csprojResolveAssemblyReference.cache
