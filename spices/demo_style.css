@@ -1,0 +1,222 @@
+body{
+    display: block;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+.div {
+    display: block;
+}
+.navigation{    
+    position: absolute;
+    width: 100%;
+    box-shadow: 0 6px 2px .5px rgba(0,0,0, .24);
+    z-index: 9998;
+}
+/*@media (min-width: 767px)*/
+.main--navigation{
+    position: relative;
+    height: 50px;
+}
+
+.main--navigation ul{
+    list-style-type: none;
+    color: : #eceff1;
+    margin: 0;
+    padding-right: 3%; 
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navigation--tier-one{
+    margin-right: 30px;
+}
+
+.navigation--item{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    line-height: 55px;
+    text-decoration: none;
+    letter-spacing: 2px;
+/*    font-size: 16px;*/
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+}
+
+.main--navigation .navigation--item.active{
+    color: #ff6d00;
+    border-bottom: 4px solid #ff9100;
+}
+
+.section--top{
+    min-height: 400px;
+    background:transparent url(spices.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    opacity: .9;
+}
+
+.section--top .title{
+    font-family: 'Indie Flower', cursive;
+    font-size: 45px;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    padding: 110px;
+    color: white;
+    letter-spacing: 6px;
+}
+
+.section--2-column{
+    display: flex;
+    min-height: 600px;
+    width: 100%;
+}
+.left--section, .right--section{
+    width: 50%;
+    margin:3%;
+}
+.intro--column{
+    display: table-cell;
+    padding: 5%;
+    height: 400px;
+}
+
+.left--section .intro--column{
+    border-right: solid 5px;
+}
+
+.right--section .intro--column{
+    border-left: solid 5px;
+}
+
+.intro--column .container{
+    flex-wrap: wrap;
+    text-align: center;
+    line-height: 45px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.left--section .image--column{
+    display: table-cell;
+    width: 300px;    
+    height: 500px;
+    background-image: url(chilli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 55%;
+}
+
+.right--section .image--column{
+    display: table-cell;
+    width: 300px;    
+    height: 500px;
+    background-image: url(garlic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 55%;
+}
+
+.section--first-content, .section--second-content{
+    margin: 3%;
+    margin-top: -2%;
+    min-height: 300px;
+    display:flex;
+}
+
+.content--image{
+    opacity: .8;
+    width: 40%;
+}
+
+.content{
+    width:60%;
+    padding: 4%;
+    line-height: 40px;
+    align-self: center;
+    margin: 5% auto;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.26);    
+}
+
+.section--first-content{
+    background-color: #757575;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.26);
+}
+
+.section--first-content .content--image{
+    background-image: url(spices_4.jpg);
+}
+.section--first-content .content{
+    float: right;
+    color: white;
+    background-color: #424242;
+}
+
+.section--second-content{
+    background-color: #FAFAFA;
+}
+
+.section--second-content .content--image{
+    background-image: url(spices_5.jpg);
+    background-size: cover;
+    background-position: 55%;
+    float: right;
+}
+
+.section--second-content .content{
+    font-weight: 500;
+    color: #000000;
+    background-color: #F5F5F5;
+}
+
+.section--contact{
+    min-height: 300px;
+    position: relative;
+}
+
+.contact--content{
+    position: absolute;
+    z-index: 9994;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 300px;
+}
+
+.contact--content p{
+    font-weight: 900;
+    font-size: 30px;
+    word-spacing: 20px;
+    letter-spacing: 13px;
+    line-height: 60px;
+}
+
+.icons{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
+.icon{
+    width: 30px;
+    left: 0; 
+    right: 0; 
+    margin-left: 30px; 
+    margin-right: 0; 
+}
+.icon img{
+    height: 50px;
+}
+
+.footer{
+    background-image: url(spices_6.jpg);
+    height: 400px;
+    opacity: .4;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    position: relative;
+}
